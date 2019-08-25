@@ -1257,5 +1257,10 @@
      * 微认证:
 
 <B>共计176位参与者</B>
-
+ * xgkh0025：1个积分，贡献点：
+     * 完成案例：[第五期](https://github.com/huaweicloud/ModelArts-Lab/issues/637#issuecomment-524613711)
+     * 体验文章：
+     * 扩展案例：
+     * 实际应用案例：    
+     * 微认证:
 
